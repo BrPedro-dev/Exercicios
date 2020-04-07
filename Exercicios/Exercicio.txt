@@ -1,0 +1,9 @@
+Faça um progrma para solucionar o seguinte problema de registro de eventos. Os dados devem ser armazenado
+e lidos em um arquivo. O programa deve pedir o nome do evento e preço do evento e também deve ter seguintes parametros:
+
+* Um procedimento para castrar todos eventos.
+* Um procedimento para listar todos os eventos.
+* Um procedimento para alterar o preço do evento.
+* Um procedimento para excluir todos os eventos.
+* Um procedimento para saida.
+
